@@ -1,0 +1,47 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "images": [
+    {
+      "id": "SF5gGlb",
+      "titleImage": "Người yêu",
+      "descImage": "Đây là người yêu của mình",
+      "categories": "3",
+      "image": "https://images.pexels.com/photos/3579181/pexels-photo-3579181.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "security": true,
+      "createDate": "17/4/2021"
+    },
+    {
+      "id": "4N4aaBK",
+      "titleImage": "It's me",
+      "descImage": "Ngày buổi sáng bên cốc cà phê",
+      "categories": "1",
+      "image": "https://images.pexels.com/photos/3098619/pexels-photo-3098619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940 940w, https://images.pexels.com/photos/3098619/pexels-photo-3098619.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260 1260w, https://images.pexels.com/photos/3098619/pexels-photo-3098619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940 1880w, https://images.pexels.com/photos/3098619/pexels-photo-3098619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260 2520w",
+      "security": false,
+      "createDate": "17/4/2021"
+    },
+    {
+      "titleImage": "Bàn làm việc",
+      "descImage": "Bàn làm việc thật phong cách",
+      "categories": "1",
+      "image": "https://images.pexels.com/photos/3143813/pexels-photo-3143813.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+      "security": false,
+      "id": "V2PE5hb",
+      "createDate": "17/4/2021"
+    },
+    {
+      "id": "Qfwd1v3",
+      "titleImage": "Gaming 2050",
+      "descImage": "Những hình ảnh gaming....",
+      "categories": "5",
+      "image": "https://media.istockphoto.com/photos/gamer-work-space-concept-top-view-a-gaming-gear-mouse-keyboard-in-picture-id1170073824?k=6&m=1170073824&s=612x612&w=0&h=Pzb28rBDleTTOVykIDNzeWVtry5iNC9Dq-tZAfmHAUM=",
+      "security": false,
+      "createDate": "17/4/2021"
+    }
+  ]
+}
